@@ -1,5 +1,4 @@
 <?php
-//dit is commentaar
 require_once "lib/autoload.php";
 
 BasicHead();
